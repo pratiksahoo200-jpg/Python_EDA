@@ -115,10 +115,4 @@ All plots use **Seaborn themes** (`whitegrid`, `Set2`) for clean and professiona
 * **Matplotlib** – Plotting
 * **Seaborn** – Statistical visualizations
 * **Jupyter Notebook**
-* 
-## 📌 Key Business Takeaways
-
-* High sales do not always mean high profit
-* Some sub-categories need pricing or cost optimization
-* Consumer customers and West region are key profit drivers
 
